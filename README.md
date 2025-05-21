@@ -65,19 +65,8 @@ The goal is to analyze Crusto Pizza's order and sales data to answer key busines
 ## 🛠️ Tools & Technologies
 
 - **SQL** – Core language for data extraction and analysis  
-- **Excel / Google Sheets** – Optional for EDA presentation  
-- **Power BI/Tableau** *(future scope)* – For building dashboards  
+- **Excel** - For adhoc analysis and formatting 
 
----
-
-## 📁 Folder Structure
-
-```
-├── pizza_sales_project.sql
-├── pizza_sales_dataset.csv
-├── pizza_sales_report.pdf
-└── README.md  👈
-```
 
 ---
 
